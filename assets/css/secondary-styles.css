@@ -23,13 +23,13 @@
 
 .secondary-content h3 {
     font-size: 25px;
-    margin: 20px;
+    margin: 20px 0;
 }
 
 .secondary-content p {
     font-size: 16px;
     line-height: 16px;
-    margin: 20px;
+    margin: 20px 0;
 }
 
 .secondary-content ul {
